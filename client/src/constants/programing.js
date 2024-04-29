@@ -1,0 +1,17 @@
+export const LANGUAGE_VERSION = {
+    javascript: "18.15.0",
+    typescript: "4.4.3",
+    python: "3.10.0",
+    java: "17",
+    c: "11",
+    cpp: "11",
+    csharp: "11",
+    php: "8.0",
+    go: "1.17",
+    ruby: "3.0",
+    swift: "5.5",
+    kotlin: "1.5.21",
+    rust: "1.55.0",
+    scala: "2.13.6",
+    perl: "5.34.0",
+}
